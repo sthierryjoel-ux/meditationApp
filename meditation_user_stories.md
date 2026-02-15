@@ -55,3 +55,31 @@ As a user, I want intuitive navigation icons, so that I can easily move around t
 1. Display a logo in the top-left corner and a settings icon in the top-right corner for navigation.
 **Story Points:** [Estimated Effort in Points]
 
+# DETAILED SCREEN
+
+
+**Title: help section**
+As a user, I want an “About” section for each exercise, so that I can understand its benefits and purpose.
+**Acceptance Criteria:**
+1. Display a brief description of the exercise, explaining its focus and stress-reducing benefits.
+**Story Points:** [Estimated Effort in Points]
+
+
+**Title: Instructions section**
+As a user, I want an “Instructions” section for each exercise, so that I can easily move around the app.
+**Acceptance Criteria:**
+1. Display a logo in the top-left corner and a settings icon in the top-right corner for navigation.
+**Story Points:** [Estimated Effort in Points]
+
+**Title: Favorites Button**
+As a user, I want an “Add to Favorites” button, so that I can easily save an exercise for future practice.
+**Acceptance Criteria:**
+1. Include a prominent “Add to Favorites” button at the bottom of the page.
+**Story Points:** [Estimated Effort in Points]
+
+**Title: go back button**
+As a user, I want navigation icons for sharing and going back, so that I can easily manage the exercise page.
+**Acceptance Criteria:**
+1. Display a back icon and a share icon at the top of the page for easy navigation.
+**Story Points:** [Estimated Effort in Points]
+
